@@ -1,0 +1,16 @@
+.table-responsive-sm,h1,.form-container{
+  margin-top: 10px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(199, 235, 243);
+  border: solid rgb(163, 170, 226);
+}
+p{
+  text-align: center;
+  background-color: rgb(199, 235, 243);
+
+}
+.container{
+  border: solid  rgb(199, 235, 243);
+}
